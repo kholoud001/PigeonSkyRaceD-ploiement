@@ -1,0 +1,6 @@
+[submodule "Pigeon-UI"]
+	path = Pigeon-UI
+	url = https://github.com/kholoud001/PigeonSkyRaceFront.git
+[submodule "Pigeon"]
+	path = Pigeon
+	url = https://github.com/kholoud001/PigeonSkyRaceSecurity-deploiement.git
